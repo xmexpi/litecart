@@ -5,8 +5,8 @@
 <meta charset="{snippet:charset}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'css/variables.css'); ?>">
-<link rel="stylesheet" href="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'css/framework.min.css'); ?>">
-<link rel="stylesheet" href="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'css/app.min.css'); ?>">
+<link rel="stylesheet" href="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'css/framework.css'); ?>">
+<link rel="stylesheet" href="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'css/app.css'); ?>">
 {snippet:head_tags}
 {snippet:style}
 </head>
@@ -42,7 +42,7 @@
 </div>
 
 {snippet:foot_tags}
-<script src="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'js/app.min.js'); ?>"></script>
+<script src="<?php echo document::href_rlink(FS_DIR_TEMPLATE . 'js/app.js'); ?>"></script>
 {snippet:javascript}
 </body>
 </html>
