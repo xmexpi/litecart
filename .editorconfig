@@ -3,7 +3,7 @@
 # - Notepad++ Plugin: https://github.com/editorconfig/editorconfig-notepad-plus-plus
 # - Sublime Plugin: https://github.com/sindresorhus/editorconfig-sublime
 # - Visual Studio Code Plugin: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
+#test
 root = true
 
 [*.{css,html,js,json,less,md,php,scss,sql,xml}]
